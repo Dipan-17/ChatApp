@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268560239194",
+    "project_id": "batcheet-bab87",
+    "storage_bucket": "batcheet-bab87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268560239194:android:a230d45e98f8538a8d2663",
+        "android_client_info": {
+          "package_name": "com.example.batcheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268560239194-oaok677huauc27c44h69ktj4kl1cnuhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLzqE5MF-UdSBMO4M_d3-7w5Gl3g4Ivk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268560239194-oaok677huauc27c44h69ktj4kl1cnuhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
